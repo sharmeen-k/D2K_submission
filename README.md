@@ -4,8 +4,8 @@ This repository contains my submission for the Machine Learning assessment. It s
 
 ## Contents
 - **ML_notebook.ipynb**: The main Jupyter Notebook containing the assessment submission.
-- **Data**: (Optional) If the dataset is included, this folder will contain the raw and/or processed data used in the notebook.
-- **Results**: (Optional) Outputs or visualizations generated during the project.
+- **Data**: The raw data used in the notebook, downloaded from Kaggle.
+- **Results**: Outputs generated during the project.
 
 ## Features of the Notebook
 1. **Data Preprocessing**: Steps for cleaning, handling missing values, and scaling features.
